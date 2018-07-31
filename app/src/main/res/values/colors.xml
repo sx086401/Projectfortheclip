@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="facebook">#3b5998</color>
+    <color name="line">#00c300</color>
+    <color name="google">#ea4335</color>
+    <color name="email">#b1b1b1</color>
+    <color name="f68c3e">#f68c3e</color>
+    <color name="activity">#f5f6f5</color>
+    <drawable name="darkgray">#808080</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="blue">#0000FF</drawable>
+    <color name="grey">#DDDDDD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#a4e6f3</color>
+
+    <color name="colorBackground">#eeeeee</color>
+
+    <color name="pn_red">#d02129</color>
+    <color name="pn_blue">#ff19a2c6</color>
+</resources>
